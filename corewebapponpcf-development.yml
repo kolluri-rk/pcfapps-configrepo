@@ -1,4 +1,4 @@
-UseCfConnectors: yes from dev - just checking
+UseCfConnectors: yes from dev - serving from git
 AvailableConnectorsCount: 1
 CfConnector:
   Type: azuresql-dev
