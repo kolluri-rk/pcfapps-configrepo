@@ -1,0 +1,6 @@
+UseCfConnectors: 'yes'
+AvailableConnectorsCount: 1
+CfConnector:
+  Type: azuresql
+  Uri: http://blah-blah/
+  Target: randomvalue

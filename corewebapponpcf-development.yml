@@ -1,0 +1,6 @@
+UseCfConnectors: yes from dev
+AvailableConnectorsCount: 1
+CfConnector:
+  Type: azuresql-dev
+  Uri: http://blah-blah/dev/
+  Target: randomvalue-dev
