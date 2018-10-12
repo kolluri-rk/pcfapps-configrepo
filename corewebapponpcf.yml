@@ -1,4 +1,4 @@
-UseCfConnectors: 'yes' - serving from git
+UseCfConnectors: 'yes - serving from git'
 AvailableConnectorsCount: 1
 CfConnector:
   Type: azuresql
