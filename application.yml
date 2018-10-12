@@ -3,6 +3,7 @@ Logging:
   LogLevel:
     Default: Warning
 AllowedHosts: "*"
+REGISTRATION_SERVER_ENDPOINT: https://github.com/kolluri-rk/pcfapps-configrepo
 info:
   description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples
+  url: https://github.com/kolluri-rk/pcfapps-configrepo
