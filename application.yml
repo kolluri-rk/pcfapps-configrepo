@@ -7,3 +7,4 @@ REGISTRATION_SERVER_ENDPOINT: https://github.com/kolluri-rk/pcfapps-configrepo
 info:
   description: Spring Cloud Samples
   url: https://github.com/kolluri-rk/pcfapps-configrepo
+secret: '{cipher}AQAUeCl4A6J19cMwx89yS4QltMsQEP6CftWF9Et48/oQwT/fInl8EOsB0p6pqMJdX0ff/DqXUgkf3O0gUuPPNagyVpgn5jthO4vCup7xanFhlCOAQjNjcjPiy+AiUfTzs6dD/BE9vx7AxYb2sIv9p+JGWH0KOQDoEaO0XwnGaaza8/1NjC89C+31T15aYieyzEsar8vrDPbYgKCiWgsBq8MoPk6XW6sDFvF665leW6L7x3QO4SsWWgoPx42faz+e8dibBxi79/NL01EQ5Rjrk9ijBkwYijZ7ATKvCnVVSonB9fi+7+nmcUVwPXEgmecc501o0zNUu/RUXUm9ITy32a4l+JcqZHIoQT5dNsdnz5vdKhRQWERK5n0Gb3u8vaHXo70='
