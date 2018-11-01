@@ -8,6 +8,12 @@ Logging:
     Steeltoe: Information
   Console:
     IncludeScopes: true 
+    LogLevel:
+      Default: Warning
+      System": Information
+      Microsoft": Information
+      Pivotal: Information
+      Steeltoe: Information
 AllowedHosts: "*"
 REGISTRATION_SERVER_ENDPOINT: https://github.com/kolluri-rk/pcfapps-configrepo
 info:
