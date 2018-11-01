@@ -1,20 +1,11 @@
 ---
-Logging: 
-  IncludeScopes: false
-  Debug:
-    LogLevel: 
-      Default: Information
-      Microsoft: Debug
-      Pivotal: Debug
-      Steeltoe: Debug
-      ActuatorsDemo: Debug
-  Console:
-    LogLevel: 
-      Default: Information
-      Microsoft: Debug
-      Pivotal: Debug
-      Steeltoe: Debug
-      ActuatorsDemo: Debug
+Logging:
+  LogLevel:
+    Default: Warning
+    System": Information
+    Microsoft": Information
+    Pivotal: Information
+    Steeltoe: Information
 AllowedHosts: "*"
 REGISTRATION_SERVER_ENDPOINT: https://github.com/kolluri-rk/pcfapps-configrepo
 info:
