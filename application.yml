@@ -2,6 +2,9 @@
 Logging:
   LogLevel:
     Default: Warning
+    Pivotal: Information
+    Steeltoe: Information
+    Management: Information
 AllowedHosts: "*"
 REGISTRATION_SERVER_ENDPOINT: https://github.com/kolluri-rk/pcfapps-configrepo
 info:
