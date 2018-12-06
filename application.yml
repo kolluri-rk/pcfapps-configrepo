@@ -18,7 +18,7 @@ Logging:
       ActuatorsDemo: Information
 AllowedHosts: "*"
 REGISTRATION_SERVER_ENDPOINT: https://github.com/kolluri-rk/pcfapps-configrepo
-feature: check webhook
+feature: check webhook v1
 info:
   description: Spring Cloud Samples
   url: https://github.com/kolluri-rk/pcfapps-configrepo
